@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Body Tag Element-Chipi Technologies</title>
+</head>
+<body>
+<h1>Tag Used Insid &lt;body&gt;</h1>
+<h2>1.<mark>&lt;h1&gt;to &lt;h6&gt;-Heading</mark></h2>
+<p>Used to define heading of different level.<code>&lt;h1&gt;</code> is the main heading,and <code>&lt;h6&gt;</code> is a sub-heading.</p>
+<h2>2.<mark>&lt;p&gt;-paragraph</mark></h2>
+<p>This tag is used to write normal text or paragraph.Each <code>&lt;p&gt;</code> creates a new block of text.</p>
+<h2>3. <mark>&lt;strong&gt;-Strong Improtance</mark></h2>
+<p>This tag highlight text with strong improtance.It usually appears bold.</p>
+<h2>4.<mark>&lt;code&gt;- code snippet</mark></h2>
+<p>This tag display HTML tag or programming code in a monospace font. Useful for showing code examples.</p>
+<h2>5.<mark>&lt;hr&gt;-Horizontal Rule </mark></h5>
+<p>This tag creates a -horizontal line across the page. It is used to separate sections.</p>
+<h2>6. <mark>&lt;ul&gt; and &lt;li&gt;-Undered List and List itms </mark></h2>
+<p><code>&lt;ul&gt;</code>creates a bulleted list.</p>
+<p><code>&lt;li&gt;</code>difines each item of the list.</p>
+<hr>
+<h2>Example section </h2>
+<h3>Corse List at Chipi Technologies:</h3>
+<ul>
+<li>HTML ,CSS,JavaScript</li>
+<li>Java and Spring Boot</li>
+<li>Python and Django</li>
+</ul>
+</body>
+</html>
